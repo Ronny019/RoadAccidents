@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Main St",
+        "accidents": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-123.1207, 49.2827],
+          [-123.1217, 49.2837]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Broadway",
+        "accidents": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-123.124, 49.284],
+          [-123.126, 49.284]
+        ]
+      }
+    }
+  ]
+}
